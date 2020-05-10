@@ -159,9 +159,9 @@ $('document').ready(function(){
 			$('#b22').animate({top:240, left: vw-140},500);
 			$('#b33').animate({top:240, left: vw-80},500);
 			$('#b44').animate({top:240, left: vw-30},500);
-			$('#b55').animate({top:240, left: vw+30},500);
+			$('#b55').animate({top:240, left: vw+20},500);
 			$('#b66').animate({top:240, left: vw+60},500);
-			$('#b77').animate({top:240, left: vw+100},500)
+			$('#b77').animate({top:240, left: vw+120},500)
 		}else{
 			$('#b11').animate({top:240, left: vw-350},500);
 			$('#b22').animate({top:240, left: vw-250},500);
